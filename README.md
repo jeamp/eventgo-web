@@ -1,2 +1,2 @@
 # eventgo-web
-web page evento go
+web page event go
